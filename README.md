@@ -1,7 +1,7 @@
 # SOSTIME
 
 <p align="center">
-  <img alt="Truck image" src="truck-emergency.png" width="400" height="250">
+  <img alt="Truck image" src="truck-emergency.png" width="325" height="250">
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
