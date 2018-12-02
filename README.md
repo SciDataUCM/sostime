@@ -8,7 +8,7 @@
 [![GitHub license](https://img.shields.io/github/license/SciDataUCM/koe-bot.svg)](https://github.com/SciDataUCM/koe-bot/blob/master/LICENSE)
 [![Language](https://img.shields.io/badge/language-python-blue.svg)](https://www.python.org/)
 
-## What is SOSTIME
+## What is SOSTIME 🆘
 
 SOSTIME is a Python application that given a location predicts how much time would take to the regional emergency services to attend a real-time request using Machine Learning.
 
