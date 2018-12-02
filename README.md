@@ -16,6 +16,9 @@ SOSTIME is a Python application that given a location predicts how much time wou
 
 Besides [Python 3.6](https://www.python.org/downloads/) we will be using the following packages:
 
+* [numpy](http://www.numpy.org/)
+* [scipy](https://www.scipy.org/)
+* [matplotlib](https://matplotlib.org/)
 * [pandas](https://pandas.pydata.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 
