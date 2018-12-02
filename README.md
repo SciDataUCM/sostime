@@ -12,6 +12,10 @@
 
 SOSTIME is a Python application that given a location predicts how much time would take to the regional emergency services to attend a real-time request using Machine Learning.
 
+## Explore the data 📖
+
+We keep every data exploration we have ever done developing SOSTIME in [this Jupyter Notebook](/data-exploration.ipynb). 
+
 ## Requirements ⚙️
 
 Besides [Python 3.6](https://www.python.org/downloads/) we will be using the following packages:
